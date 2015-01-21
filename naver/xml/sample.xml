@@ -1,0 +1,13 @@
+<GetLyricResult>
+	<TrackChecksum>string</TrackChecksum>
+	<TrackId>int</TrackId>
+	<LyricChecksum>string</LyricChecksum>
+	<LyricId>int</LyricId>
+	<LyricSong>string</LyricSong>
+	<LyricArtist>string</LyricArtist>
+	<LyricUrl>string</LyricUrl>
+	<LyricCovertArtUrl>string</LyricCovertArtUrl>
+	<LyricRank>int</LyricRank>
+	<LyricCorrectUrl>string</LyricCorrectUrl>
+	<Lyric>string</Lyric>
+</GetLyricResult>
